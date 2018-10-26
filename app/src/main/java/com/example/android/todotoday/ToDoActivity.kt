@@ -9,4 +9,5 @@ class ToDoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_to_do)
     }
+
 }
